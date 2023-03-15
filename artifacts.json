@@ -1,5 +1,5 @@
 {
-    "this-repository": "https://github.com/wenqian-zhao/dsc180-artifact-directory.git",
+    "this-repository": "https://github.com/NicoloWX/CausalTreeInference.git",
     "project-repository": "https://github.com/NicoloWX/dsc180a_finalProject.git",
     "dockerhub-repository": "wenqianzhao/dsc180a:latest",
     "project-website-url": "https://capstone-causal-tree.vercel.app/",
